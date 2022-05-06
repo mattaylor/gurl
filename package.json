@@ -1,0 +1,23 @@
+{
+  "name": "gurl",
+  "version": "1.0.0",
+  "description": "Proxy service to expose RESTlike iterfaces to Graphql services and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattaylor/gurl.git"
+  },
+  "keywords": [
+    "graphql",
+    "rest"
+  ],
+  "author": "mat.taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattaylor/gurl/issues"
+  },
+  "homepage": "https://github.com/mattaylor/gurl#readme"
+}
